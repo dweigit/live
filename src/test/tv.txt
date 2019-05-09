@@ -1,0 +1,249 @@
+﻿开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+无线财经咨询台,http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+Newtv超级体育,http://183.251.61.207/PLTV/88888888/224/3221225925/index.m3u8
+CCTV-5+高清,http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225604/index.m3u8
+香港国际,rtmp://live.hongkongitv.com/live/2018?auth_key=1655523780-0-0-bf41104a26aa4c627e23288c3ef74884
+全美電視,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+NOW TV,http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
+now华剧台,http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
+MTV音乐,http://94.191.92.145:5005/nl.ts?id=232-10-4-20
+V音乐,http://94.191.92.145:5005/nl.ts?id=232-10-4-13
+凤凰资讯HD,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰资讯台,http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
+凤凰资讯HD,http://183.251.61.221/PLTV/88888888/224/3221225901/index.m3u8
+凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯,http://u6.gg/eG5DU
+凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰中文HD,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰卫视高清,http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8
+凤凰美洲,http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
+凤凰电影台,http://94.191.92.145:5005/nl.ts?id=232-10-4-11
+卫视电影台,http://94.191.92.145:5005/nl.ts?id=232-10-4-6
+星卫电影台,http://122.146.68.116:4048/VideoInput/play.ts
+星卫,http://122.146.68.116:4016/VideoInput/play.ts
+香港卫视,http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8
+環球電視,http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+香港31台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+香港600新闻,http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8
+耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+卫视卡式台, http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
+澳门澳视体育,http://103.233.191.135/ch4/_definst_/sport_ch4.live/chunklist_w1798618527.m3u8
+澳门莲花,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+澳门立法會,http://103.233.191.136/tv/_definst_/ch21.live/playlist.m3u8
+澳门澳视葡文台,http://103.233.191.136/ch2/_definst_/ch2.live/playlist.m3u8
+澳门澳视资讯台,http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+澳门澳视高清台,http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8
+澳门澳视葡文台,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳门澳视卫视台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳门澳视卫视台,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+澳门澳视资讯台,http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
+澳门澳视资讯台,http://103.233.191.135:1935/ch5/info_ch5.live/playlist.m3u8
+澳门澳亚卫视台,http://stream.mastvnet.com/MASTV/sd/live.m3u8
+澳门澳视澳门台,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳门澳视高清体育台,http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+壹新闻 NEXT TV,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+华视新闻,http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8
+非凡新闻,http://60.199.188.61/HLS/WG_USTV-N/index.m3u8
+三立都会台,http://60.250.69.26:8080/live/setcity89.m3u8
+壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+华视咨讯台,http://60.250.69.26:8080/live/ctinews89.m3u8
+东森美洲新闻台,http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8
+TVBS-N,http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+中旺电视,http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8
+天下电视,http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8
+东森戏剧,http://122.146.68.116:4011/VideoInput/play.ts
+东森美洲台,http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
+三立台湾台,http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8
+大爱电视,http://live.italkdd.com/cds160/hls/channel015/channel015.m3u8
+亚洲旅游,http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
+天良台,http://61.216.177.73/sta/ch1865001.m3u8
+台湾超视,http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
+中旺电视,http://live.italkdd.com/cds160/hls/channel008/channel008.m3u8
+欢乐,http://60.250.69.26:8080/live/tvbsfun89.m3u8
+壹新闻HD,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8]http://59.120.242.104:9000/live/live8.m3u8#http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8[/url]
+东森新闻,[url=http://61.216.177.73/sta/ch10119001.m3u8#http://live.italkdd.com/cds160/h ... hannel019_2000.m3u8]http://61.216.177.73/sta/ch10119001.m3u8#http://live.italkdd.com/cds160/h ... hannel019_2000.m3u8[/url]
+三立台湾HD,http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8
+非凡新闻 HD,[url=http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8#http://60.199.188.61/HLS/WG_USTV-N/index.m3u8]http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8#http://60.199.188.61/HLS/WG_USTV-N/index.m3u8[/url]
+天空新闻,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+中天新闻HD,http://59.120.242.104:9000/live/live4.m3u8
+年代新闻HD,http://59.120.242.104:9000/live/live3.m3u8
+环宇新闻,http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8]http://59.120.242.104:9000/live/live13.m3u8#http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8[/url]]http://61.216.177.73/sta/ch10119011.m3u8#http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8]http://59.120.242.104:9000/live/live13.m3u8#http://pili-live-hls.xiandantv.com/xdtv-live/87707f45c16b4208acc9401cdb0b5112.m3u8[/url][/url]
+环宇新闻2台,http://61.216.177.73/sta/ch10119013.m3u8
+台视综合,http://61.216.177.73/sta/ch10119037.m3u8
+台视新闻HD,http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8]http://61.216.177.73/sta/ch10119038.m3u8#http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8[/url]
+台视HD,http://59.120.242.104:9000/live/live14.m3u8]http://61.216.177.73/sta/ch10119036.m3u8#http://59.120.242.104:9000/live/live14.m3u8[/url]
+星卫HD电影台,http://59.120.242.104:9000/live/live10.m3u8
+龙华电影,http://61.216.177.73/sta/ch10119012.m3u8
+龙华经典,http://61.216.177.73/sta/ch10119014.m3u8
+龙华动画,http://61.216.177.73/sta/ch10119009.m3u8
+龙华偶像,http://61.216.177.73/sta/ch10119007.m3u8
+靖洋卡通,http://61.216.177.73/sta/ch10119027.m3u8
+靖天资讯,http://61.216.177.73/sta/ch10119024.m3u8
+靖天育乐,http://61.216.177.73/sta/ch10119028.m3u8
+靖天综合,http://61.216.177.73/sta/ch10119029.m3u8
+靖天卡通,http://61.216.177.73/sta/ch10119030.m3u8
+靖天国际,http://61.216.177.73/sta/ch10119031.m3u8
+靖天日本,http://61.216.177.73/sta/ch10119032.m3u8
+ETV娱乐台HD,http://59.120.242.104:9000/live/live1.m3u8
+美亚电影台HD,http://59.120.242.104:9000/live/live2.m3u8
+家庭剧场,http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+历史频道,http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+卫星剧场,http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
+日本映画,http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
+爱尔达体育1台HD,http://59.120.242.104:9000/live/live9.m3u8
+纬来日本HD,http://59.120.242.104:9000/live/live11.m3u8
+纬来体育HD,http://59.120.242.104:9000/live/live12.m3u8
+博斯高球2,http://61.216.177.73/sta/ch10119015.m3u8
+博斯高球,http://61.216.177.73/sta/ch10119016.m3u8
+博斯运动,http://61.216.177.73/sta/ch10119017.m3u8
+博斯运动2,http://61.216.177.73/sta/ch10119018.m3u8
+博斯无限,http://61.216.177.73/sta/ch10119019.m3u8
+GOOD综合台,http://live.streamingfast.net/osmflivech1.m3u8
+GOOD生活台,http://live.streamingfast.net/osmflivech12.m3u8
+GOOD真情部落格,http://live.streamingfast.net/osmflivech3.m3u8
+GOOD共享观点,http://live.streamingfast.net/osmflivech5.m3u8
+GOOD爱+好医生,http://live.streamingfast.net/osmflivech9.m3u8
+GOOD美食旅游台,http://live.streamingfast.net/osmflivech14.m3u8
+GOOD健康新煮流,http://live.streamingfast.net/osmflivech13.m3u8
+GOOD卡通,http://live.streamingfast.net/osmflivech40.m3u8
+GOOD烤箱读书会,http://live.streamingfast.net/osmflivech44.m3u8
+富立,http://61.216.177.73/sta/ch1865022.m3u8
+美国中文,http://live.italkdd.com/cds160/hls/channel009/channel009.m3u8
+国家地理,http://94.191.92.145:5005/nl.ts?id=232-10-4-5
+动物世界,http://94.191.92.145:5005/nl.ts?id=232-10-1-124
+新加坡U8,http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8
+阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/1.m3u8
+韩国CBS,http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1226916721.m3u8
+YOYOTV,http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8
+NHK,http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+纬来综合,http://60.250.69.26:8080/live/vl89.m3u8
+纬来日本台,http://60.250.69.26:8080/live/vljp89.m3u8
+纬来体育,http://60.250.69.26:8080/live/vlsports89.m3u8
+FOX MOVIES,http://60.250.69.26:8080/live/startwest89.m3u8
+中天娱乐,http://60.250.69.26:8080/live/ctihappy89.m3u8
+环球电视台,http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+天空新闻,http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+海峽衛視,http://60.251.37.44:8080/live/fjtv90.m3u8
+皇马足球台,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+STLHD,http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+劲爆体育,http://223.110.243.150/PLTV/2/224/3221226045/1.m3u8
+CCTV-5高清,http://223.110.245.136/PLTV/3/224/3221227166/index.m3u8
+Knews24新闻,http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+法国时尚,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+高清时装台WFC,http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+Flix HD,http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+加州音悦台,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8
+CNN,http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL186/PROFILE05.m3u8
+TRAVEL HD,http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+MOTO,http://mysisli.com/md2/all-fail-compilation/tracks-v1a1/mono.m3u8
+WestTV- Australia,http://westtvalive1-a.akamaihd.net/599fba3e4e8d4b879e6b7ce8ad163c9b/ap-southeast-2/5575390700001/profile_2/chunklist_dvr.m3u8
+Japan24news,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+意大利音乐台,http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+新加坡5频道,http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8
+新加坡8频道,http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+HBO,http://218.202.220.2:5000/nn_live.ts?id=HBO
+HBO2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+CNN,http://60.251.37.44:8080/live/cnn90.m3u8
+随便看看,http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+日-ファミリー劇場,http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+日-ファミリー劇場,vjms://122.155.180.8:8500/live/cid=493
+日-ファミリー劇場,vjms://122.155.180.8:8500:5021/live/cid=493
+日-ファミリー劇場,vjms://58.215.41.184:8500:3502/live/cid=493
+日-衛星劇場,http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+日-衛星劇場,vjms://122.155.180.8:8500/live/cid=208
+日-衛星劇場,vjms://58.215.41.184:8500:3502/live/cid=208
+日-NHK News,vjms://122.155.180.8:8500:3502/live/cid=53
+日-NHK News,vjms://122.155.180.8:8500:5021/live/cid=53
+日-BSスカパー!,vjms://122.155.180.8:8500:3502/live/cid=58
+日-BSスカパー!,rtmp://wv2.tp33.net/sat/jp111
+日-BSスカパー!,rtmp://wv2.tp33.net/sat/jp112
+日-KBS WORLD,vjms://122.155.180.8:8500/live/cid=216
+日-KBS WORLD,vjms://58.215.41.184:8500:3502/live/cid=216
+日-日テレG+ NTV G+,vjms://122.155.180.8:8500/live/cid=207
+日-日テレG+ NTV G+,vjms://122.155.180.8:8500:3502/live/cid=207
+日-日テレG+ NTV G+,vjms://122.155.180.8:8500:5021/live/cid=207
+日-日テレG+ NTV G+,vjms://58.215.41.184:8500:3502/live/cid=207
+日-日テレG+ NTV G+,rtmp://wv2.tp33.net/sat/jp051
+日-日テレG+ NTV G+,rtmp://wv2.tp33.net/sat/jp052
+日-History channel,vjms://122.155.180.8:8500/live/cid=219
+日-History channel,vjms://58.215.41.184:8500:3502/live/cid=219
+日-History channel,http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+日-TBS News,vjms://122.155.180.8:8500:5021/live/cid=220
+日-TBS News,vjms://122.155.180.8:8500/live/cid=220
+日-TBS News,vjms://58.215.41.184:8500:3502/live/cid=220
+日-TBS1チャンネル1,vjms://122.155.180.8:8500/live/cid=221
+日-日テレプラスNTV-PLUS,vjms://122.155.180.8:8500/live/cid=492
+日-日テレプラスNTV-PLUS,vjms://122.155.180.8:8500:3502/live/cid=492
+日-日テレプラスNTV-PLUS,vjms://122.155.180.8:8500:5021/live/cid=492
+日-日テレプラスNTV-PLUS,vjms://58.215.41.184:8500:3502/live/cid=492
+日-Shop Channel,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+日-BS钓鱼,vjms://122.155.180.8:8500:3502/live/cid=55
+日-BS钓鱼,vjms://122.155.180.8:8500:5021/live/cid=55
+日-FOX SPORT,vjms://122.155.180.8:8500:3502/live/cid=57
+日-Fox sports 3,vjms://122.155.180.8:8500:3502/live/cid=95
+日-Star 2,vjms://122.155.180.8:8500:3502/live/cid=191
+日-Star 2,vjms://122.155.180.8:8500:5021/live/cid=191
+日-Star 2,vjms://58.215.41.184:8500:3502/live/cid=191
+日-Star 3,vjms://122.155.180.8:8500:3502/live/cid=193
+日-Star 3,vjms://122.155.180.8:8500:5021/live/cid=193
+日-Star 3,vjms://58.215.41.184:8500:3502/live/cid=193
+日-WOWOW Live,vjms://122.155.180.8:8500:3502/live/cid=205
+日-Sky A Sports +,vjms://122.155.180.8:8500/live/cid=210
+日-Sky A Sports +,vjms://122.155.180.8:8500:5021/live/cid=210
+日-Sky A Sports +,vjms://58.215.41.184:8500:3502/live/cid=210
+日-BS日本映画,http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+日-BS日本映画,http://192.240.127.34:1935/live/cs19.stream/play.m3u8
+日-BS日本映画,vjms://122.155.180.8:8500/live/cid=213
+日-BS日本映画,vjms://122.155.180.8:8500:5021/live/cid=213
+日-BS日本映画,vjms://58.215.41.184:8500:3502/live/cid=213
+日-TV Asahi-1,vjms://122.155.180.8:8500:5021/live/cid=223
+日-TV Asahi-2,vjms://122.155.180.8:8500/live/cid=217
+日-TV Asahi-2,vjms://122.155.180.8:8500:5021/live/cid=217
+日-TV Asahi-2,vjms://58.215.41.184:8500:3502/live/cid=217
+日-WOWOW Cinema,vjms://122.155.180.8:8500/live/cid=224
+日-WOWOW Cinema,vjms://122.155.180.8:8500:5021/live/cid=224
+日-WOWOW Cinema,vjms://58.215.41.184:8500:3502/live/cid=224
+有线18台,rtmp://dv2.tp33.net/sat/hk041
+香港电台,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+香港电台,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
+凤凰中文,http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文,http://111.40.205.87/PLTV/88888888/224/3221225684/index.m3u8
+凤凰资讯,http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8
+凤凰资讯,http://live.italkdd.com/cds160/hls/channel002/channel002.m3u8
+凤凰资讯,http://221.179.217.76/PLTV/88888888/224/3221225949/index.m3u8
+凤凰资讯,http://live.italkdd.com/cds160/hls/channel002/channel002_2000.m3u8
+凤凰香港,http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
+澳视资讯,http://103.233.191.136:1935/ch5/info_ch5.live/playlist.m3u8
+澳视卫星,http://103.233.191.135:1935/ch3/ch3.live/playlist.m3u8
+澳视卫星,http://103.233.191.136:1935/ch3/ch3.live/playlist.m3u8
+澳视澳门,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
+澳视澳门,http://103.233.191.136:1935/ch1/ch1.live/playlist.m3u8
+澳视澳门,http://103.233.191.135:1935/ch1/ch1.live/playlist.m3u8
+澳视高清,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视高清,http://103.233.191.135:1935/ch6/hd_ch6.live/playlist.m3u8
+澳视高清,http://103.233.191.136:1935/ch6/hd_ch6.live/playlist.m3u8
+600新闻,http://live.italkdd.com/cds160/hls/channel023/channel023.m3u8
+TVBS新闻,http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+TVBS新闻,http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+TVBS精彩,http://122.146.68.116:4014/VideoInput/play.ts
+三立新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+台视,rtmp://dv2.tp33.net:1935/sat/tv072
+民视,rtmp://dv2.tp33.net:1935/sat/tv052
+民视,rtmp://dv2.tp33.net/sat/tv051
+民视新闻,http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
+民视新闻,http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8
+台视新闻,http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
+台视新闻,http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8
+壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+壹新闻,http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+中天综合,http://122.146.68.116:4005/VideoInput/play.ts
+中天新闻,http://122.146.68.116:4006/VideoInput/play.ts
+中天娱乐,http://122.146.68.116:4007/VideoInput/play.ts
+东森洋片,http://122.146.68.116:4010/VideoInput/play.ts
+东森新闻,http://122.146.68.116:4012/VideoInput/play.ts
+东森新闻,http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8
+华视,rtmp://dv2.tp33.net/sat/tv111
+中视,rtmp://dv2.tp33.net:1935/sat/tv092
+华视新闻,http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
