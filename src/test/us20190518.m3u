@@ -1,0 +1,60 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News [720p]
+
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 11 [720p]
+
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 2 [720p]
+
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 3 [720p]
+
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 4 [720p]
+
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 5 [720p]
+
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 6 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 7 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 8 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital 9 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Digital [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Live [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS News [720p]
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBS News [720p]
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",CCX Sports [1080p]
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png" group-title="NEWS",NEWSMAXTV (US)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+
+
+#EXTINF:-1 logo="https://vignette.wikia.nocookie.net/logopedia/images/8/86/KBS2.png" group-title="South Korea(한국어)",KBS2
+http://121.156.46.79/live/10141.m3u8?sid=60720
+#EXTINF:-1 tvg-logo="http://www.cntv.co.kr/layouts/cntv/images/list2.png" group-title="South Korea(한국어)",Ch China
+http://121.156.46.79/live/10791.m3u8?sid=60720
