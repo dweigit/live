@@ -65,7 +65,7 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 http://120.221.2.42:8089/PLTV/88888888/224/3221225855/1.m3u8
 #EXTINF:-1 tvg-name="山东影视" tvg-logo="http://www.tvyan.com/uploads/dianshi/sdys.jpg" group-title="卫视频道",山东影视HD
 http://120.221.2.42:8089/PLTV/88888888/224/3221225802/1.m3u8
-#EXTINF:-1 tvg-name="山东体育" tvg-id="shandong" tvg-name="CCTV15" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="卫视频道",山东体育HD
+#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="卫视频道",山东体育HD
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/jnxwzh.jpg" group-title="卫视频道",济南新闻综合
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000312/index.m3u8
@@ -139,6 +139,7 @@ http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="台湾频道",台湾民视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="台湾频道",台湾民视新闻HD
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="台湾频道",台湾台视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="台湾新闻",东森新闻HD
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z215143213I8.jpg" group-title="台湾频道",衛視西片臺
@@ -262,7 +263,7 @@ http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",战旗电影频道LHD
 http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",战旗三国演义LHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="网络频道",战旗新三国LHD
 http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
 #EXTINF:-1 tvg-logo="https://a.msstatic.com/huya/main/img/logo2.png" group-title="网络频道",虎牙两米小厨娘HD
 http://aldirect.hls.huya.com/huyalive/1340957696-1340957696-5759369449639510016-3742508212-10057-A-0-1.m3u8?

@@ -4,6 +4,8 @@ http://iptv.filmover.com/
 
 http://porn-iptv.com/
 
+https://blog.csdn.net/Gents_hu/article/details/86826046
+
 # epg
 https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=396149&page=1&authorid=461875
 
