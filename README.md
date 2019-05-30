@@ -11,6 +11,14 @@ https://www.right.com.cn/forum/forum.php?mod=viewthread&tid=396149&page=1&author
 
 https://www.right.com.cn/forum/thread-340377-1-1.html
 
+https://www.chromeba.net/potplayer%E7%9B%B4%E6%92%AD%E6%BA%90.html
+
+https://threecatspace.com/
+
+https://www.sheng521.top/966.html
+
+https://laoguy.com/category/tvlive
+
 
 http://epg.51zmt.top:8000/e.xml
 http://epg.51zmt.top:8000/e.xml.xz
