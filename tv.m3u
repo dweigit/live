@@ -49,7 +49,7 @@ http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-beijingstv/HD-2500k-1080P-
 #EXTINF:-1 tvg-id="hunan" tvg-name="湖南卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视频道",湖南卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hunanstv
 #EXTINF:-1 tvg-id="heilongjiang" tvg-name="黑龙江卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",黑龙江卫视HD
-#EXTINF:-1 tvg-id="haerbing" tvg-name="哈尔滨新闻综合" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" group-title="CCTV)",哈尔滨新闻综合
+#EXTINF:-1 tvg-id="haerbing" tvg-name="哈尔滨新闻综合" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" group-title="卫视频道",哈尔滨新闻综合
 http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="jiangsu" tvg-name="江苏卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",江苏卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
