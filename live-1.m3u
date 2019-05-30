@@ -481,3 +481,16 @@ http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",高清电影5
 http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-id="jiangxi" tvg-name="江西卫视"  tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangxitv.jpg" group-title="卫视频道",江西卫视HD
+http://223.110.241.204:6610/cntv/live1/jiangxistv/jiangxistv
+#EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" tvg-logo="http://ku.90sjimg.com/element_pic/17/12/31/2ec189f5167bd017e47acd441800487b.jpg" group-title="卫视频道", 湖北卫视HD-1
+http://112.50.243.8/PLTV/88888888/224/3221225948/3.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南卫视高清HD2
+http://39.134.52.182/wh7f454c46tw1696467131_1868720566/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225981/1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南卫视高清HD3
+http://39.134.52.182/wh7f454c46tw1696467131_1868720566/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225981/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="专题频道",湖南卫视高清
+http://39.134.13.35:6610/180000001001/00000001000000000007000000001242/index.m3u8?
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" group-title="专题频道",纪实频道HD
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8

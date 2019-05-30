@@ -11,6 +11,7 @@ https://www.right.com.cn/forum/thread-340377-1-1.html
 
 
 http://epg.51zmt.top:8000/e.xml
+http://epg.51zmt.top:8000/e.xml.xz
 
 国内及港澳主要使用电视猫节目内容
 https://www.tvmao.com/program
