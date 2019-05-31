@@ -251,9 +251,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nettv.live/uploads/allimg/18/1-1P5131Z9270-L.gif" group-title="海外频道",极速汽车-HD
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225962/3.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外频道",HBO 720P
 http://161.0.157.6/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外频道",History HD
+http://93.136.67.234:4001/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外频道",National Geographic HD
+http://93.136.67.234:4001/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新加坡",5 频道(英语)
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
@@ -315,3 +318,104 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
 http://39.135.16.142:6060/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="" group-title="未知频道",未知6FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="CHC",CHC动作电影
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000118&amp;playtoken=ABCDEFGH&amp;auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",CHC动作电影
+http://hbly.chinashadt.com:2046/live/1004.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CHC",CHC高清电影
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000180&amp;playtoken=ABCDEFGH&amp;auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CHC",CHC家庭电影
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000119&amp;playtoken=ABCDEFGH&amp;auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",CHC家庭影院
+http://hnyx.chinashadt.com:1935/live/1005.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CHC",DOX雅趣HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000157&amp;playtoken=ABCDEFGH&amp;auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",DOX英伦HD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000158&amp;playtoken=ABCDEFGH&amp;auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-logo="" group-title="CHC",HISTORY TV
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CHC",InfoWars
+http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CHC",无台标电视剧FHD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000162&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",无台标发现FHD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000160&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",无台标纪实FHD
+http://httpdvb.slave.yqdtv.com:13164/playurl
+?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000157&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",无台标剧场FHD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000158&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",无台标外国FHD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000161&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",无台标外国电影
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000163&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",无台标影院FHD
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000159&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1 tvg-logo="" group-title="CHC",VIP电影1
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CHC",VIP电影2
+http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="CHC",VIP电影4
+http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4K超清",海看4K
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K(备用)
+http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",4k魔百和
+http://39.134.52.153/PLTV/88888888/224/3221226193/1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K-1(卡)
+http://117.148.187.83/PLTV/88888888/224/3221226539/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K-2
+http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K-3(卡)
+http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K
+http://117.149.128.138/PLTV/88888888/224/3221226539/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K
+http://112.17.40.154/PLTV/88888888/224/3221226809/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",BESTV4K
+http://117.149.128.175/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
+http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4K超清",海看4K
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",爱上4K (联通)
+rtsp://119.39.49.116:554/ch00000090990000001230.sdp?vcdnid=001
+#EXTINF:-1 tvg-logo="" group-title="4K超清",纯享4K
+http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",纯享4K
+http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4K超清",魔百和4K
+http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",魔百和4k
+http://39.134.52.153/PLTV/88888888/224/3221226193/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",咪咕4K
+http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",咪咕4K
+http://39.134.52.153/PLTV/88888888/224/3221226158/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
+http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
+http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4K超清",4K测试
+http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221226695/1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",4K影视3840×2160
+http://117.148.187.37/PLTV/88888888/224/3221226539/index.m3u8
