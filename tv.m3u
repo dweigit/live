@@ -28,11 +28,11 @@ http://112.50.243.7/PLTV/88888888/224/3221226493/index.m3u8
 http://61.189.255.152/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8
 #EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV13" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="CCTV",CCTV13
 http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
+
 #EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV14" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title="CCTV",CCTV14HD
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
-=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000130&playtoken=ABCDEFGH&auth=no
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000130&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV15" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="CCTV",CCTV15
-http://112.17.40.140/PLTV/88888888/224/3221226112/index.m3u8
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="CCTV",CCTV4K
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 
@@ -190,15 +190,15 @@ http://218.77.102.118:1935/live/gonggong/playlist.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" group-title="专题频道",纪实频道HD
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
-#EXTINF:-1 tvg-name="全纪实" tvg-logo="http://static2.tvzhe.com/channel/logo/SITV-DOCUMENTARY.jpg" group-title="专题频道",全纪实频道HD
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="http://www.tvyan.com/uploads/dianshi/quanjishi.jpg" group-title="专题频道",全纪实频道HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",清华大学电视台HD
+#EXTINF:-1 tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559388223719&di=85082771ea3ce42e3c4ab33340603419&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201506%2F19%2F20150619111753_Wrvhd.jpeg" group-title="专题频道",清华大学电视台HD
 http://v.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/huanxiaojuchang.jpg" group-title="专题频道",欢笑剧场HD
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225963/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg" group-title="专题频道",湖南茶频道LHD
 http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",CHC高清电影HD
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://www.tvyan.com/uploads/dianshi/chchd.jpg" group-title="专题频道",CHC高清电影FHD
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",CHC家庭影院
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",CHC动作电影
@@ -308,9 +308,6 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
 http://39.135.16.142:6060/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/aa/SHSMG_Bestv.jpg" group-title="未知频道",BesTV FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-logo="" group-title="CHC",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="4K超清",海看4K
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
