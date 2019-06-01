@@ -494,3 +494,12 @@ http://39.134.52.182/wh7f454c46tw1696467131_1868720566/hwottcdn.ln.chinamobile.c
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001242/index.m3u8?
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" group-title="专题频道",纪实频道HD
 http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="4K超清",海看4K
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="4K超清",爱上4K (联通)
+rtsp://119.39.49.116:554/ch00000090990000001230.sdp?vcdnid=001
+#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K-2
+http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8

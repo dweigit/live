@@ -32,18 +32,12 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
 http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
 =R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000130&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV15" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="CCTV",CCTV15
+http://112.17.40.140/PLTV/88888888/224/3221226112/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="CCTV",CCTV4K
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="CCTV",CCTV4K-1
-http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
-#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="CCTV",CCTV4K-2
-http://112.17.40.140/PLTV/88888888/224/3221226539/index.m3u8
-
 
 #EXTINF:-1 tvg-id="guangdong" tvg-name="广东卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg" group-title="卫视频道",广东卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
-#EXTINF:-1 tvg-id="guangdong" tvg-name="广东综艺" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg" group-title="卫视频道",广东综艺4K
-http://dslive.grtn.cn/4K/sd/live.m3u8
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/shenzhentv.jpg" group-title="卫视频道",深圳卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-shenzhenstv/HD-2500k-1080P-shenzhenstv
 #EXTINF:-1 tvg-id="btv1" tvg-name="北京卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/beijingtv.jpg" group-title="卫视频道",北京卫视HD
@@ -53,7 +47,7 @@ http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-hunanstv/HD-2500k-1080P-hu
 #EXTINF:-1 tvg-id="heilongjiang" tvg-name="黑龙江卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",黑龙江卫视HD
 #EXTINF:-1 tvg-id="haerbing" tvg-name="哈尔滨新闻综合" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" group-title="卫视频道",哈尔滨新闻综合
 http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 tvg-id="jiangsu" tvg-name="江苏卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",江苏卫视HD
+#EXTINF:-1 tvg-id="jiangsu" tvg-name="江苏卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangsutv.jpg" group-title="卫视频道",江苏卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-jiangsustv/HD-2500k-1080P-jiangsustv
 #EXTINF:-1 tvg-name="吴江新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/wujiangtv.jpg" group-title="卫视频道", 江苏吴江新闻综合
 http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
@@ -93,22 +87,22 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225703/1/index.m3u8?fmt=ts2hls
 http://39.135.16.142:6060/PLTV/88888888/224/3221225743/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/hubeitv.jpg" group-title="卫视频道",湖北卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-hubeistv/HD-2500k-1080P-hubeistv
-#EXTINF:-1 tvg-id="henan" tvg-name="河南卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视频道", 河南卫视HD
+#EXTINF:-1 tvg-id="henan" tvg-name="河南卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/henantv.jpg" group-title="卫视频道", 河南卫视HD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",吉林卫视HD
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="卫视频道", 江西卫视HD
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangxitv.jpg" group-title="卫视频道", 江西卫视HD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225710/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="卫视频道", 重庆卫视HD
 http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",海南卫视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",内蒙古卫视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",宁夏卫视HD
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",河北卫视FHD
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hebeitv.jpg" group-title="卫视频道",河北卫视FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",青海卫视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",山西卫视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",陕西卫视HD
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",四川卫视HD
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuantv.jpg" group-title="卫视频道",四川卫视HD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225757/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",西藏卫视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",新疆卫视HD
@@ -128,16 +122,14 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/95/ICS_logo.png" group-title="卫视频道",ICS上海外语
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="香港频道",凤凰卫视中文台
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="香港频道",凤凰卫视中文台
 http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="香港频道",凤凰卫视中文台1
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/3.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="香港频道",凤凰卫视
-http://223.82.250.72/live/fhchinese/1.m3u8
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="香港频道",凤凰卫视香港台
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/640px-Phoenix_InfoNews.svg.png" group-title="香港频道",凤凰卫视资讯台
 http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="香港频道",凤凰卫视
+http://223.82.250.72/live/fhchinese/1.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="香港频道",凤凰卫视香港台
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯较早录影
 http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8
 #EXTINF:0 tvg-name="香港J2台" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="香港频道",无线J2
@@ -146,21 +138,21 @@ http://125.59.176.43:9981/stream/channelid/1745783410
 http://58.176.140.127:9981/stream/channelid/932104385
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/640px-ViuTV_logo.svg.png" group-title="香港频道", ViuTV
 http://58.176.140.127:9981/stream/channelid/408465505
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",TVB翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://www.tvyan.com/uploads/dianshi/jade.jpg" group-title="专题频道",TVB翡翠台
 http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="台湾频道",台湾民视HD
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ftv.jpg" group-title="台湾频道",台湾民视新闻HD
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="http://www.tvyan.com/uploads/dianshi/ftv.jpg" group-title="台湾频道",台湾民视新闻HD
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="台湾频道",台湾台视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="台湾新闻",东森新闻HD
-#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1Z215143213I8.jpg" group-title="台湾频道",衛視西片臺
+#EXTINF:-1 tvg-name="卫视电影台" tvg-logo="https://www.nettv.live/uploads/19/1-1Z215143213I8.jpg" group-title="台湾频道",衛視西片臺
 http://122.146.68.116:4016/VideoInput/play.ts
 #EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://img.isuper.tv/live-tv/cti-drama-live.jpg" group-title="台湾频道",中天娛樂
 http://61.216.10.122:4007/VideoInput/play.ts
 
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/btv5.jpg" group-title="专题频道",北京影视HD
+#EXTINF:-1 tvg-name="BTV影视" tvg-logo="http://www.tvyan.com/uploads/dianshi/btv5.jpg" group-title="专题频道",北京影视HD
 http://101.89.132.142/live/tm-btv4-4000k.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Shanghai_City_TV.PNG" group-title="专题频道",上海都市频道
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225969/3.m3u8
@@ -170,19 +162,19 @@ http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/emeidianying.jpg" group-title="专题频道",峨眉电影高清LHD
 http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南电视剧HD
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hndsj.jpg" group-title="专题频道",湖南电视剧HD
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001245/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南金鹰卡通HD
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jykt.jpg" group-title="专题频道",湖南金鹰卡通HD
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南电影HD
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001246/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南娱乐HD
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hnyl.jpg" group-title="专题频道",湖南娱乐HD
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南都市HD
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hnds.jpg" group-title="专题频道",湖南都市HD
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001249/index.m3u8?
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hngg.jpg" group-title="专题频道",湖南公共HD
 http://39.134.13.38:6610/180000001001/00000001000000000008000000047425/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南国际频道HD
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hngj.jpg" group-title="专题频道",湖南国际频道HD
 http://39.134.13.38:6610/180000001001/00000001000000000008000000047426/index.m3u8?
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南时尚频道HD
 http://39.134.13.38:6610/180000001001/00000001000000000008000000047428/index.m3u8?
@@ -194,19 +186,17 @@ http://39.134.13.38:6610/180000001001/00000001000000000008000000047430/index.m3u
 http://218.77.102.118:1935/live/gonggong/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://static.reuters.com/resources/media/editorial/20160911/Logo_yicai.gif" group-title="专题频道",第一财经HD
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="http://www.tvyan.com/uploads/dianshi/dycj.jpg" group-title="专题频道",第一财经HD
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/3.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",国学与家道HD
-http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226392/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" group-title="专题频道",纪实频道HD
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="http://www.tvyan.com/uploads/dianshi/docutv.jpg" group-title="专题频道",纪实频道HD
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225971/3.m3u8
-#EXTINF:-1 tvg-logo="http://static2.tvzhe.com/channel/logo/SITV-DOCUMENTARY.jpg" group-title="专题频道",全纪实频道HD
+#EXTINF:-1 tvg-name="全纪实" tvg-logo="http://static2.tvzhe.com/channel/logo/SITV-DOCUMENTARY.jpg" group-title="专题频道",全纪实频道HD
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225911/3.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",清华大学电视台HD
 http://v.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/huanxiaojuchang.jpg" group-title="专题频道",欢笑剧场HD
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225963/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南茶频道LHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/chapindao.jpg" group-title="专题频道",湖南茶频道LHD
 http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",CHC高清电影HD
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
@@ -308,96 +298,45 @@ http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="未知频道",未知1FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="" group-title="未知频道",未知2FHD
+#EXTINF:-1 tvg-logo="" group-title="未知频道",电视剧2FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="" group-title="未知频道",未知3FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="" group-title="未知频道",未知4FHD
+#EXTINF:-1 tvg-logo="" group-title="未知频道",动画FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="" group-title="未知频道",未知5FHD
+#EXTINF:-1 tvg-logo="" group-title="未知频道",电影5FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="" group-title="未知频道",未知6FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/aa/SHSMG_Bestv.jpg" group-title="未知频道",BesTV FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="CHC",CHC动作电影
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000118&amp;playtoken=ABCDEFGH&amp;auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",CHC动作电影
-http://hbly.chinashadt.com:2046/live/1004.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CHC",CHC高清电影
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000180&amp;playtoken=ABCDEFGH&amp;auth=no
 #EXTINF:-1 tvg-logo="" group-title="CHC",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CHC",CHC家庭电影
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000119&amp;playtoken=ABCDEFGH&amp;auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",CHC家庭影院
-http://hnyx.chinashadt.com:1935/live/1005.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CHC",DOX雅趣HD
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000157&amp;playtoken=ABCDEFGH&amp;auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",DOX英伦HD
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000158&amp;playtoken=ABCDEFGH&amp;auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",HBO
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 tvg-logo="" group-title="CHC",HISTORY TV
-http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CHC",InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CHC",无台标电视剧FHD
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000162&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",无台标发现FHD
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000160&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",无台标纪实FHD
-http://httpdvb.slave.yqdtv.com:13164/playurl
-?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000157&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",无台标剧场FHD
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000158&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",无台标外国FHD
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000161&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",无台标外国电影
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000163&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",无台标影院FHD
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000159&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1 tvg-logo="" group-title="CHC",VIP电影1
-http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CHC",VIP电影2
-http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="CHC",VIP电影4
-http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="4K超清",海看4K
 http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K(备用)
-http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K超清",4k魔百和
 http://39.134.52.153/PLTV/88888888/224/3221226193/1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K-1(卡)
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="4K超清",CCTV4K-1
 http://117.148.187.83/PLTV/88888888/224/3221226539/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K-2
-http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K-3(卡)
-http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K
-http://117.149.128.138/PLTV/88888888/224/3221226539/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",CCTV4K
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="4K超清",CCTV4K-2
 http://112.17.40.154/PLTV/88888888/224/3221226809/index.m3u8
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="4K超清",CCTV4K-3
+http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="4K超清",CCTV4K-4
+http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="4K超清",CCTV4K-5
+http://112.17.40.140/PLTV/88888888/224/3221226539/index.m3u8
+#EXTINF:-1 tvg-id="guangdong" tvg-name="广东综艺" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg" group-title="卫视频道",广东综艺4K
+http://dslive.grtn.cn/4K/sd/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K(备用)
+http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K超清",BESTV4K
 http://117.149.128.175/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
-http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="4K超清",海看4K
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",爱上4K (联通)
-rtsp://119.39.49.116:554/ch00000090990000001230.sdp?vcdnid=001
-#EXTINF:-1 tvg-logo="" group-title="4K超清",纯享4K
+#EXTINF:-1 tvg-logo="" group-title="4K超清",纯享4K(快)
 http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K超清",纯享4K
 http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
@@ -410,12 +349,7 @@ http://39.134.52.153/PLTV/88888888/224/3221226193/1.m3u8
 http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K超清",咪咕4K
 http://39.134.52.153/PLTV/88888888/224/3221226158/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
+#EXTINF:-1 tvg-logo="" group-title="4K超清",咪咕4K
 http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",BesTV4K
+#EXTINF:-1 tvg-logo="" group-title="4K超清",咪咕4K
 http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="4K超清",4K测试
-http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221226695/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="4K超清",4K影视3840×2160
-http://117.148.187.37/PLTV/88888888/224/3221226539/index.m3u8
