@@ -36,6 +36,16 @@ http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="CCTV",CCTV4K
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 
+
+#EXTINF:-1,CCTV-14FHD-1
+http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225933/1.m3u8
+#EXTINF:-1,CCTV-14FHD-2
+http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000130&playtoken=ABCDEFGH&auth=no
+#EXTINF:-1,CCTV-14FHD-3
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1,CCTV-14FHD-4
+http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+
 #EXTINF:-1 tvg-id="guangdong" tvg-name="广东卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg" group-title="卫视频道",广东卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
 #EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/shenzhentv.jpg" group-title="卫视频道",深圳卫视HD
