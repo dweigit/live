@@ -30,21 +30,11 @@ http://61.189.255.152/live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlis
 http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV14" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title="CCTV",CCTV14HD
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000130&playtoken=ABCDEFGH&auth=no
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
 #EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV15" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="CCTV",CCTV15
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225817/index.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="CCTV",CCTV4K
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
-
-
-#EXTINF:-1,CCTV-14FHD-1
-http://120.198.235.68/112.50.243.7/PLTV/88888888/224/3221225933/1.m3u8
-#EXTINF:-1,CCTV-14FHD-2
-http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&playtype=live&accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&programid=4200000130&playtoken=ABCDEFGH&auth=no
-#EXTINF:-1,CCTV-14FHD-3
-http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
-#EXTINF:-1,CCTV-14FHD-4
-http://120.198.235.70/112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
 
 #EXTINF:-1 tvg-id="guangdong" tvg-name="广东卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangdongtv.jpg" group-title="卫视频道",广东卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-guangdongstv/HD-2500k-1080P-guangdongstv
@@ -176,7 +166,7 @@ http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001245/index.m3u8?
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/jykt.jpg" group-title="专题频道",湖南金鹰卡通HD
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001247/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南电影HD
+#EXTINF:-1 tvg-logo="https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=4ceb3b669782d158bb825eb7b8317ee5/f603918fa0ec08faccdfae2f52ee3d6d54fbda5f.jpg" group-title="专题频道",湖南电影HD
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001246/index.m3u8?
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hnyl.jpg" group-title="专题频道",湖南娱乐HD
 http://39.134.13.35:6610/180000001001/00000001000000000007000000001248/index.m3u8?
@@ -186,13 +176,13 @@ http://39.134.13.35:6610/180000001001/00000001000000000007000000001249/index.m3u
 http://39.134.13.38:6610/180000001001/00000001000000000008000000047425/index.m3u8?
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hngj.jpg" group-title="专题频道",湖南国际频道HD
 http://39.134.13.38:6610/180000001001/00000001000000000008000000047426/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",湖南时尚频道HD
+#EXTINF:-1 tvg-logo="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=b8eaab3ad61373f0f53f68999c342cc6/caef76094b36acaf4774a5bd7bd98d1000e99cde.jpg" group-title="专题频道",湖南时尚频道HD
 http://39.134.13.38:6610/180000001001/00000001000000000008000000047428/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",长沙频道高清HD
+#EXTINF:-1 tvg-logo="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=46c3b75900f79052ef1f403834f2d738/3b87e950352ac65c765fa239f2f2b21193138a26.jpg" group-title="专题频道",长沙频道高清HD
 http://39.134.13.38:6610/180000001001/00000001000000000008000000047429/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",长沙政法频道HD
+#EXTINF:-1 tvg-logo="https://gss2.bdstatic.com/-fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=46c3b75900f79052ef1f403834f2d738/3b87e950352ac65c765fa239f2f2b21193138a26.jpg" group-title="专题频道",长沙政法频道HD
 http://39.134.13.38:6610/180000001001/00000001000000000008000000047430/index.m3u8?
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="专题频道",娄底公共高清HD
+#EXTINF:-1 tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1559393817092&di=22b832f70665ab2e77a35b82b546fab8&imgtype=0&src=http%3A%2F%2Fimage1.admaimai.com%2Fscanimg%2Ftv%2Fcolumn%2F12a1e83c-72ca-4483-9fea-0ede70e74327.jpg" group-title="专题频道",娄底公共高清HD
 http://218.77.102.118:1935/live/gonggong/playlist.m3u8
 
 

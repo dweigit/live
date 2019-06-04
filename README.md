@@ -36,3 +36,17 @@ https://guihet.com/perfect-player.html
 https://www.jianshu.com/p/1e85714696c7
 
 https://freesourcetv.com/
+
+https://collectionmyanmar.blogspot.com/
+
+# ZalTV Code
+https://twitter.com/hashtag/zaltv
+
+7162214428
+
+
+# 刷机教程
+#### K2P
+http://www.epinv.com/post/12320.html
+#### T1
+http://www.epinv.com/post/12289.html
