@@ -59,16 +59,6 @@ http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-tianjinstv/HD-2500k-1080P-
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-dongfangstv/HD-2500k-1080P-dongfangstv
 #EXTINF:-1 tvg-id="shandong" tvg-name="山东卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="卫视频道",山东卫视HD
 http://223.110.241.204:6610/cntv/live1/HD-2500k-1080P-shandongstv/HD-2500k-1080P-shandongstv
-#EXTINF:-1 tvg-id="shandongqilu" tvg-name="山东齐鲁" tvg-logo="http://www.tvyan.com/uploads/dianshi/qilu.jpg" group-title="卫视频道",山东齐鲁HD
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000313/index.m3u8
-#EXTINF:-1 tvg-name="山东教育" tvg-logo="http://www.tvyan.com/uploads/dianshi/sdetv.jpg" group-title="卫视频道",山东教育HD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000331/index.m3u8
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="http://www.tvyan.com/uploads/dianshi/sdzy.jpg" group-title="卫视频道",山东综艺HD
-http://120.221.2.42:8089/PLTV/88888888/224/3221225855/1.m3u8
-#EXTINF:-1 tvg-name="山东影视" tvg-logo="http://www.tvyan.com/uploads/dianshi/sdys.jpg" group-title="卫视频道",山东影视HD
-http://120.221.2.42:8089/PLTV/88888888/224/3221225802/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="山东体育" tvg-logo="http://www.tvyan.com/uploads/dianshi/shandongtv.jpg" group-title="卫视频道",山东体育HD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/jnxwzh.jpg" group-title="卫视频道",济南新闻综合
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000312/index.m3u8
 #EXTINF:-1 tvg-id="liaoning" tvg-name="辽宁卫视" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg" group-title="卫视频道",辽宁卫视HD
@@ -77,8 +67,6 @@ http://223.110.241.204:6610/cntv/live1/liaoningstv/liaoningstv
 http://223.110.241.204:6610/cntv/live1/anhuistv/anhuistv
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6a/SETV_fujian.jpg" group-title="卫视频道",东南卫视HD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/FJTV-670x300.jpg" group-title="卫视频道",海峡卫视HD
-http://stream7.fjtv.net/hxpdfh/hd/live.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",甘肃卫视HD
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/hd.jpg" group-title="卫视频道",广西卫视HD
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/Guizhou_tv.jpg" group-title="卫视频道",贵州卫视HD
@@ -126,12 +114,8 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/3.m3u8
 http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/640px-Phoenix_InfoNews.svg.png" group-title="香港频道",凤凰卫视资讯台
 http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png" group-title="香港频道",凤凰卫视
-http://223.82.250.72/live/fhchinese/1.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="香港频道",凤凰卫视香港台
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",凤凰资讯较早录影
-http://223.82.250.72/ysten-bussiness/live/fhzixun/1.m3u8
 #EXTINF:0 tvg-name="香港J2台" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-j2.jpg" group-title="香港频道",无线J2
 http://125.59.176.43:9981/stream/channelid/1745783410
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/640px-ViuTVsix-logo.svg.png" group-title="香港频道", ViuTVsix
@@ -309,8 +293,6 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/aa/SHSMG_Bestv.jpg" group-title="未知频道",BesTV FHD
 http://39.135.16.142:6060/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 
-#EXTINF:-1 tvg-logo="" group-title="4K超清",海看4K
-http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000499/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="4K超清",4k魔百和
 http://39.134.52.153/PLTV/88888888/224/3221226193/1.m3u8
 
