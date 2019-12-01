@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1, group-title="中央频道", ,CCTV
+http://112.17.40.145/PLTV/88888888/224/3221226664/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV1
+http://112.17.40.145/PLTV/88888888/224/3221226595/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV2
+http://112.17.40.145/PLTV/88888888/224/3221226593/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV3
+http://112.17.40.145/PLTV/88888888/224/3221226431/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV4
+http://112.17.40.145/PLTV/88888888/224/3221226732/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV5
+http://112.17.40.145/PLTV/88888888/224/3221226737/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV6
+http://112.17.40.145/PLTV/88888888/224/3221226510/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV7
+http://112.17.40.145/PLTV/88888888/224/3221226652/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV8
+http://112.17.40.145/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV9
+http://112.17.40.145/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV10
+http://112.17.40.145/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV11
+http://112.17.40.145/PLTV/88888888/224/3221226219/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV12
+http://112.17.40.145/PLTV/88888888/224/3221226167/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV13
+http://112.17.40.145/PLTV/88888888/224/3221226417/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV14
+http://112.17.40.145/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV15
+http://112.17.40.145/PLTV/88888888/224/3221226112/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV5+
+http://112.17.40.145/PLTV/88888888/224/3221226166/index.m3u8
+#EXTINF:-1, group-title="中央频道", ,CCTV Sport
+http://112.17.40.145/PLTV/88888888/224/3221226402/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,浙江
+http://112.17.40.145/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,浙江教
+http://112.17.40.145/PLTV/88888888/224/3221226217/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,浙江少儿
+http://112.17.40.145/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,浙江教育
+http://112.17.40.145/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,浙江民生
+http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,浙江教育科技
+http://112.17.40.145/PLTV/88888888/224/3221226763/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,浙江数码时代
+http://112.17.40.145/PLTV/88888888/224/3221226695/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,杭州
+http://112.17.40.145/PLTV/88888888/224/3221226488/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,嘉兴新
+http://112.17.40.145/PLTV/88888888/224/3221226551/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,杭州少儿
+http://112.17.40.145/PLTV/88888888/224/3221226533/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,杭州影视
+http://112.17.40.145/PLTV/88888888/224/3221226724/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,杭州生活
+http://112.17.40.145/PLTV/88888888/224/3221226726/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,嘉兴新闻综合
+http://112.17.40.145/PLTV/88888888/224/3221226120/index.m3u8
+#EXTINF:-1, group-title="地方频道", ,宁波新闻综合
+http://112.17.40.145/PLTV/88888888/224/3221226130/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,6
+http://112.17.40.145/PLTV/88888888/224/3221226237/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,2+
+http://112.17.40.145/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,66
+http://112.17.40.145/PLTV/88888888/224/3221226356/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,JO
+http://112.17.40.145/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,娱乐
+http://112.17.40.145/PLTV/88888888/224/3221226412/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,少儿
+http://112.17.40.145/PLTV/88888888/224/3221226225/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,江电
+http://112.17.40.145/PLTV/88888888/224/3221226197/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,生活
+http://112.17.40.145/PLTV/88888888/224/3221226410/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,电视
+http://112.17.40.145/PLTV/88888888/224/3221226162/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,综合
+http://112.17.40.145/PLTV/88888888/224/3221226358/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,BTV
+http://112.17.40.145/PLTV/88888888/224/3221226583/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,DTB
+http://112.17.40.145/PLTV/88888888/224/3221226326/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,JYG
+http://112.17.40.145/PLTV/88888888/224/3221226777/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,OTC
+http://112.17.40.145/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,RTB
+http://112.17.40.145/PLTV/88888888/224/3221226516/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,UFC
+http://112.17.40.145/PLTV/88888888/224/3221226689/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,YTV
+http://112.17.40.145/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,共新闻
+http://112.17.40.145/PLTV/88888888/224/3221226209/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,州影视
+http://112.17.40.145/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,州文化
+http://112.17.40.145/PLTV/88888888/224/3221226615/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,州生活
+http://112.17.40.145/PLTV/88888888/224/3221226241/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,济生活
+http://112.17.40.145/PLTV/88888888/224/3221226158/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,湖明珠
+http://112.17.40.145/PLTV/88888888/224/3221226741/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,码时代
+http://112.17.40.145/PLTV/88888888/224/3221226179/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,育科技
+http://112.17.40.145/PLTV/88888888/224/3221226414/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,闻综合
+http://112.17.40.145/PLTV/88888888/224/3221226553/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,CGTN
+http://112.17.40.145/PLTV/88888888/224/3221226235/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,CGTV
+http://112.17.40.145/PLTV/88888888/224/3221226314/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,CNTV
+http://112.17.40.145/PLTV/88888888/224/3221226682/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,CVTV
+http://112.17.40.145/PLTV/88888888/224/3221226512/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,CiTV
+http://112.17.40.145/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,DATV
+http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,DFTV
+http://112.17.40.145/PLTV/88888888/224/3221226600/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,ERTV
+http://112.17.40.145/PLTV/88888888/224/3221226352/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,GHTV
+http://112.17.40.145/PLTV/88888888/224/3221226543/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,GJTV
+http://112.17.40.145/PLTV/88888888/224/3221226522/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,HBTV
+http://112.17.40.145/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,HGTV
+http://112.17.40.145/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,HNV1
+http://112.17.40.145/PLTV/88888888/224/3221226171/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,HTV2
+http://112.17.40.145/PLTV/88888888/224/3221226212/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,HTV3
+http://112.17.40.145/PLTV/88888888/224/3221226477/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,HTV4
+http://112.17.40.145/PLTV/88888888/224/3221226362/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,HTV5
+http://112.17.40.145/PLTV/88888888/224/3221226354/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,JHTV
+http://112.17.40.145/PLTV/88888888/224/3221226547/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,NNTV
+http://112.17.40.145/PLTV/88888888/224/3221226174/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,OYTV
+http://112.17.40.145/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,QGTV
+http://112.17.40.145/PLTV/88888888/224/3221226587/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,RETV
+http://112.17.40.145/PLTV/88888888/224/3221226585/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,UITV
+http://112.17.40.145/PLTV/88888888/224/3221226524/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,UYTV
+http://112.17.40.145/PLTV/88888888/224/3221226423/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,WETV
+http://112.17.40.145/PLTV/88888888/224/3221226408/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,XZTV
+http://112.17.40.145/PLTV/88888888/224/3221226160/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,优优宝贝
+http://112.17.40.145/PLTV/88888888/224/3221226128/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,兴新闻综
+http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,兵团卫视
+http://112.17.40.145/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,教育科技
+http://112.17.40.145/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,数码时代
+http://112.17.40.145/PLTV/88888888/224/3221226744/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,经济生活
+http://112.17.40.145/PLTV/88888888/224/3221226494/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,西湖明珠
+http://112.17.40.145/PLTV/88888888/224/3221226116/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,钱江电视
+http://112.17.40.145/PLTV/88888888/224/3221226621/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,BesTV
+http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,CETV1
+http://112.17.40.145/PLTV/88888888/224/3221226132/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,EVRTV
+http://112.17.40.145/PLTV/88888888/224/3221226481/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,JO TV
+http://112.17.40.145/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,NewTV
+http://112.17.40.145/PLTV/88888888/224/3221226759/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,OHTV1
+http://112.17.40.145/PLTV/88888888/224/3221226170/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,SRTV1
+http://112.17.40.145/PLTV/88888888/224/3221226479/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,VCTV3
+http://112.17.40.145/PLTV/88888888/224/3221226475/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,江公共新闻
+http://112.17.40.145/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,MYLT TV
+http://112.17.40.145/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,BesTV Live
+http://112.17.40.145/PLTV/88888888/224/3221226685/index.m3u8
+#EXTINF:-1, group-title="其他频道", ,Baby Talent
+http://112.17.40.145/PLTV/88888888/224/3221226142/index.m3u8
