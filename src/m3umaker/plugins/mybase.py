@@ -10,13 +10,12 @@ class Source(object):
 
     def __init__(self):
         self.T = tools.Tools()
-        # self.now = int(time.time() * 1000)
         self.now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
     def getSource(self):
         urlList = []
         sourcePath = './plugins/mybase_source'
-        sourcePath = '/Users/dwei/Downloads/浙江移动IPTV.m3u'
+        sourcePath = '/Users/dwei/Workspace/IdeaProjects/live/doc/bak/tv.m3u'
         fo = open(sourcePath, "r+")
 
         tmp = fo.read();
@@ -26,8 +25,8 @@ class Source(object):
         i = 1
         total = len(sourceList)
         for item in sourceList:
-            info = self.T.fmtTitle(item[0])
-            print('Checking[ %3s / %3s ]: %-8s' % (i, total, str(info['id']) + str(info['title']).split(',')[-1]),end="\t")
+            info = self.T.fmtTitle(item[0].strip().replace(',', '', 1))
+            print('Checking[ %3s / %3s ]: %-8s' % (i, total, str(info['id']) + str(info['title']).split(',')[-1]), end="\t")
             i = i + 1
 
             # netstat = 0
@@ -36,7 +35,6 @@ class Source(object):
             #     print('try checking \033[32m%s\033[0m次，time%s' % (k,netstat))
             #     if(netstat>0):
             #         break
-
 
             netstat = self.T.chkPlayable(item[1])
             if netstat > 0:

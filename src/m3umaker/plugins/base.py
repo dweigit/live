@@ -17,7 +17,8 @@ class Source(object):
 
         url = 'https://www.jianshu.com/p/2499255c7e79'
         req = [
-            'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36',
+            'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, '
+            'like Gecko) Chrome/73.0.3683.86 Mobile Safari/537.36',
         ]
         res = self.T.getPage(url, req)
 

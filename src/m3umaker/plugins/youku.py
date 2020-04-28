@@ -5,13 +5,14 @@ import tools
 import time
 import re
 
-class Source (object) :
 
-    def __init__ (self):
+class Source(object):
+
+    def __init__(self):
         self.T = tools.Tools()
         self.now = int(time.time() * 1000)
 
-    def getSource (self) :
+    def getSource(self):
         urlList = []
 
         url = 'https://list.youku.com/category/show/c_96.html'
@@ -24,27 +25,27 @@ class Source (object) :
         ]
         res = self.T.getPage(url, req)
 
-        if res['code'] == 200 :
-            pattern = re.compile(r"window\.__INITIAL_DATA__(.*?)categoryFilter\":{\"", re.I|re.S)
+        if res['code'] == 200:
+            pattern = re.compile(r"window\.__INITIAL_DATA__(.*?)categoryFilter\":{\"", re.I | re.S)
             contentJS = pattern.findall(res['body'])
 
-            pattern = re.compile(r"\"title\":\"(.*?)\".*?\"videoId\":\"(.*?)\"", re.I|re.S)
+            pattern = re.compile(r"\"title\":\"(.*?)\".*?\"videoId\":\"(.*?)\"", re.I | re.S)
             movList = pattern.findall(contentJS[0])
             movList = movList[1]
-            for mov in movList :
+            for mov in movList:
                 info = self.getVideoInfo('XNDIwMDAyMzE3Mg==')
                 print(info)
 
         return urlList
 
-    def getVideoInfo (self, videoId) :
+    def getVideoInfo(self, videoId):
         infoUrl = 'https://ups.youku.com/ups/get.json?&ccode=0501&client_ip=0.0.0.0&client_ts=1559195109&utid=QM7jEAtFLzkCAdr3tQK%2BqDe4&vid='
 
         info = ''
         try:
             res = self.T.getPage(infoUrl + videoId, ['Referer:http://c-h5.youku.com/'])
             print(res)
-            if res['body'] == '' :
+            if res['body'] == '':
                 info = False
         except:
             info = False
