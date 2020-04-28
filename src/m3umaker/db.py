@@ -1,79 +1,79 @@
-
-#!/usr/bin/env python
+# !/usr/bin/env python
 # -*- coding: utf-8 -*-
 import sqlite3
 import getpass
 import os
 
-class DataBase (object) :
 
-    def __init__ (self) :
+class DataBase(object):
+
+    def __init__(self):
         self.dbAddress = os.getcwd() + '/'
 
         self.table = 'lists'
 
         if self.connect() == False:
             self.connStat = False
-        else :
+        else:
             self.connStat = True
             self.chkTable()
 
-    def __del__ (self) :
-        if self.connStat == True :
+    def __del__(self):
+        if self.connStat == True:
             self.disConn()
 
-    def connect (self) :
+    def connect(self):
         try:
-            if not os.path.exists(self.dbAddress) :
+            if not os.path.exists(self.dbAddress):
                 os.makedirs(self.dbAddress)
             self.dbAddress += 'db.sqlite3'
             self.conn = sqlite3.connect(self.dbAddress)
             self.cur = self.conn.cursor()
             return True
-        except :
+        except:
             return False
 
-    def create (self) :
-        if self.connStat == False : return False
+    def create(self):
+        if self.connStat == False: return False
 
         sql = 'create table ' + self.table + ' (id integer PRIMARY KEY autoincrement, title text, quality text, url text, level integer, cros integer,  enable integer, online integer, delay integer, udTime text,extInf text)'
         self.cur.execute(sql)
 
-    def query (self, sql) :
-        if self.connStat == False : return False
+    def query(self, sql):
+        if self.connStat == False: return False
 
         self.cur.execute(sql)
         values = self.cur.fetchall()
 
         return values
 
-    def execute (self, sql) :
-        try :
-            if self.connStat == False : return False
+    def execute(self, sql):
+        try:
+            if self.connStat == False: return False
             self.cur.execute(sql)
             return True
-        except :
+        except:
             return False
 
-    def insert (self, data):
-        if self.connStat == False : return False
+    def insert(self, data):
+        if self.connStat == False: return False
 
         keyList = []
         valList = []
         for k, v in data.items():
             keyList.append(k)
-            valList.append(str(v).replace('"','\"').replace("'","''"))
+            valList.append(str(v).replace('"', '\"').replace("'", "''"))
 
         sql = "insert into " + self.table + " (`" + '`, `'.join(keyList) + "`) values ('" + "', '".join(valList) + "')"
         self.cur.execute(sql)
         self.conn.commit()
 
-    def edit (self, id, data):
-        if self.connStat == False : return False
+    def edit(self, id, data):
+        if self.connStat == False: return False
 
         param = ''
         for k, v in data.items():
-            param = param + ", `%s` = '%s'" %(k, str(v).replace('"','\"').replace("'","''"))
+            param = param + ", `%s` = '%s'" % (k, str(v).replace('"', '\"').replace("'", "''"))
 
         param = param[1:]
 
@@ -81,14 +81,14 @@ class DataBase (object) :
         self.cur.execute(sql)
         self.conn.commit()
 
-    def disConn (self) :
-        if self.connStat == False : return False
+    def disConn(self):
+        if self.connStat == False: return False
 
         self.cur.close()
         self.conn.close()
 
-    def chkTable (self) :
-        if self.connStat == False : return False
+    def chkTable(self):
+        if self.connStat == False: return False
 
         sql = "SELECT tbl_name FROM sqlite_master WHERE type='table'"
         tableStat = False
@@ -97,9 +97,8 @@ class DataBase (object) :
         values = self.cur.fetchall()
 
         for x in values:
-            if self.table in x :
+            if self.table in x:
                 tableStat = True
 
-        if tableStat == False :
+        if tableStat == False:
             self.create()
-
