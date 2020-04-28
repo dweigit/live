@@ -10,7 +10,7 @@ import gzip
 import random
 import socket
 import time
-import area
+from base import area
 
 socket.setdefaulttimeout(5.0)
 

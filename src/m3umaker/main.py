@@ -1,16 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import tools
-import db
-import time
-import re
+from base import db, tools
 import json
-from plugins import base
 from plugins import mybase
-from plugins import lista
-from plugins import listb
-from plugins import dotpy
 
 
 class Iptv(object):
